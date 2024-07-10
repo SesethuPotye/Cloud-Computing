@@ -60,6 +60,9 @@ Cloud computing is seen as a way for businesses to keep up with the fast pace of
 * Leverage existing business knowledge to build innovative cloud services.
 * Experiment with new cloud-based ideas.
 
+# Modern Development and Deployment Strategies
+
+
 
 
 
