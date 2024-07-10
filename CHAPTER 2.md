@@ -62,6 +62,24 @@ Cloud computing is seen as a way for businesses to keep up with the fast pace of
 
 # Modern Development and Deployment Strategies
 
+* DevOps combines modern application development and deployment for cloud innovation.
+* Agile development with DevOps focuses on iterative development based on customer needs and metrics.
+* Key questions to consider: How do customers use the application? Is it easy to use and adapt?
+* DevOps enables continuous development and deployment, allowing frequent updates.
+ Example:  A tailoring SaaS app can quickly add a design approval feature using DevOps.
+
+# Revisiting Your Business Mode
+* DevOps combines modern application development and deployment for cloud innovation.
+* Agile development with DevOps focuses on iterative development based on customer needs and metrics.
+* Key questions to consider: How do customers use the application? Is it easy to use and adapt?
+* DevOps enables continuous development and deployment, allowing frequent updates.
+Example:  A tailoring SaaS app can quickly add a design approval feature using DevOps.
+
+
+
+
+
+
 
 
 
