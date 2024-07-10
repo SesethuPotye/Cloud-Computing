@@ -100,16 +100,28 @@ There are 3 main cloud service models:
 
 # The Computing Resources Life Cycle
 
-• Cloud users only pay for the resources they use.
-• Cloud providers must have surplus resources to meet user demands.
-• Cloud provider monitors resource usage to accurately bill users.
-• Self-service provisioning allows users to quickly obtain and configure resources.
-• Elasticity allows resources to automatically adjust their size based on usage.
-• Cloud is a federated environment consisting of workloads spread across systems.
-• Workloads should be designed for the right cloud services based on their needs.
-• Multicloud strategy involves using multiple cloud providers for optimal benefits.
-• Workloads and data can move across cloud providers and regions.
-• Management services are crucial for ensuring cloud operations meet user needs.
-• Core management services include network monitoring, application health monitoring, security, governance, data management, and cloud interface management
+* Cloud users only pay for the resources they use.
+* Cloud providers must have surplus resources to meet user demands.
+* Cloud provider monitors resource usage to accurately bill users.
+* Self-service provisioning allows users to quickly obtain and configure resources.
+* Elasticity allows resources to automatically adjust their size based on usage.
+* Cloud is a federated environment consisting of workloads spread across systems.
+* Workloads should be designed for the right cloud services based on their needs.
+* Multicloud strategy involves using multiple cloud providers for optimal benefits.
+* Workloads and data can move across cloud providers and regions.
+* Management services are crucial for ensuring cloud operations meet user needs.
+* Core management services include network monitoring, application health monitoring, security, governance, data management, and cloud interface management
+
+# The Changing Role of the data center
+
+Show drafts
+volume_up
+* Data centers are evolving into private clouds with self-service portals and automation.
+*  Public clouds are ideal for scalable workloads with elastic resource needs.
+* Hybrid clouds combine public and private cloud resources for optimal benefits.
+* Private clouds are good choices for sensitive data or workloads with regulatory compliance requirements.
+* Private clouds can be stepping stones to public cloud migration by helping to prepare applications and manage sprawl
+
+
 
 
